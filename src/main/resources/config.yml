@@ -1,0 +1,10 @@
+# 设置
+Settings:
+  # 端口
+  port: 80
+  # 当地址是目录时默认访问目录下的什么文件
+  defaultIndexFile: "index.html"
+  # 404html路径
+  404FilePath: "404.html"
+  # 网页存放路径
+  path: "plugins/WebServer/web/"

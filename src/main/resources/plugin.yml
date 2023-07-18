@@ -1,0 +1,4 @@
+name: WebServer
+version: '${project.version}'
+main: me.qscbm.plugins.webserver.WebServerPlugin
+api-version: '1.18'
